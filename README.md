@@ -8,5 +8,5 @@ This does NOT go off of the route you actually took, but the google maps reccomm
 
 This does require you to use the google API. 
 
-I use this for exporting my drives for tax reasons. 
+I use this for exporting my drives for mileage logging reasons. 
 
